@@ -1,1 +1,2 @@
 how to use github
+add change point to index
